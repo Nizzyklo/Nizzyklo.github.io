@@ -33,6 +33,9 @@ a.left {
     margin-left: -300px;
     width: 100px;
     color: teal;
+    animation: spin 10s linear infinite;
+  /*Set our animation play state to paused initially */
+  animation-play-state: paused; 
 }
 a.middle {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -70,8 +73,8 @@ a.right {
     width: 100px;
     color:teal;
 }
-.left a:hover {
-    background: #3374C2; //background instead of background-image
+a.left:hover {
+animation-play-state: running;
 }
 /*a.statement {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
