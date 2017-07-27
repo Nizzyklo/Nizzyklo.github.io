@@ -8,11 +8,13 @@ h2 {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 2em;
 	font-weight: 50em;
+    color: white;
 }
 p {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 1em;
 	font-weight: 25em;
+    color: white;
 }
 a.left {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -30,6 +32,7 @@ a.left {
     left: 50%;
     margin-left: -525px;
     width: 100px;
+    color: teal
 }
 a.middle {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
