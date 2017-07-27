@@ -17,7 +17,7 @@ a {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 3em;
 	font-weight: 80em;
-	background: backgroundimage.jpg;
+	background: transparent url('backgroundimage.jpg') no-repeat;
 	border: none;
 	padding: 15px 32px;
 	text-align: center;
