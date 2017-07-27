@@ -30,9 +30,9 @@ a.left {
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-left: -400px;
+    margin-left: -300px;
     width: 100px;
-    color: teal
+    color: teal;
 }
 a.middle {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -48,8 +48,9 @@ a.middle {
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-left: -150px;
+    margin-left: -100px;
     width: 100px;
+    color: teal;
 }
 a.right {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -65,6 +66,7 @@ a.right {
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-left: 100px;
+    margin-left: 125px;
     width: 100px;
+    color:teal;
 }
