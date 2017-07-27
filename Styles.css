@@ -70,10 +70,10 @@ a.right {
     width: 100px;
     color:teal;
 }
-a:hover { 
-    background-color: white;
-} 
-a.statement {
+.left a:hover {
+    background: #3374C2; //background instead of background-image
+}
+/*a.statement {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 3em;
 	font-weight: 100em;
@@ -91,3 +91,4 @@ a.statement {
     width: 100px;
     color:teal;
 }
+*/
