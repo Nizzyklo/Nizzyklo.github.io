@@ -27,7 +27,7 @@ a.left {
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-left: -500px;
+    margin-left: -525px;
     width: 250px;
 }
 a.middle {
@@ -61,6 +61,6 @@ a.right {
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-left: 350px;
+    margin-left: 300px;
     width: 200px;
 }
