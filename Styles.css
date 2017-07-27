@@ -76,6 +76,10 @@ a.right {
 a.left:hover {
 animation-play-state: running;
 }
+@keyframes spin {
+  100% {transform: rotate(1turn); }
+}
+
 /*a.statement {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 3em;
