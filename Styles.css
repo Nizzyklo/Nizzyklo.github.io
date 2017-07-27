@@ -70,3 +70,6 @@ a.right {
     width: 100px;
     color:teal;
 }
+a:hover { 
+    background-color: white;
+} 
