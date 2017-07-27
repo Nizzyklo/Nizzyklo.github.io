@@ -24,4 +24,9 @@ a {
 	text-decoration: none; 
 	display: inline-block;
 	font-size: 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -125px;
+    width: 250px;
 }
