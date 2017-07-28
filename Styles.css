@@ -41,8 +41,8 @@ a.left {
 animation-play-state: running;
 }
 @keyframes spin {
-  100% {transform: rotate(1turn); } */
-}
+  100% {transform: rotate(1turn); } 
+} */
 /*a.middle {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 3em;
@@ -59,8 +59,8 @@ animation-play-state: running;
     left: 50%;
     margin-left: -100px;
     width: 100px;
-    color: teal; */
-}
+    color: teal; 
+}*/
 a.right {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 3em;
