@@ -98,3 +98,6 @@ a.right {
     color:teal;
 }
 */
+iframe {
+	display:block;
+}
