@@ -28,7 +28,7 @@ a.left {
 	display: inline-block;
 	font-size: 16px;
     position: absolute;
-    top: 75%;
+    top: 60%;
     left: 50%;
     margin-left: -200px;
     width: 100px;
@@ -73,7 +73,7 @@ a.right {
 	display: inline-block;
 	font-size: 16px;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     margin-left: 25px;
     width: 100px;
