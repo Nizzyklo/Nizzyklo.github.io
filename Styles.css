@@ -112,13 +112,13 @@ a.right {
 
 
 /* Style the navbar */
-navbar {
+#navbar {
     overflow: hidden;
-    background-color: #444;
+    background-color: orange;
 }
 
 /* Navbar links */
-navbar a {
+#navbar a {
     float: left;
     display: block;
     color: #f2f2f2;
