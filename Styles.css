@@ -115,6 +115,7 @@ a.right {
 #navbar {
     overflow: hidden;
     background-color: orange;
+    position: sticky
 }
 
 /* Navbar links */
