@@ -31,10 +31,10 @@ a.left {
 	text-decoration: none; 
 	display: inline-block;
 	font-size: 16px;
-    position: absolute;
+    position: relative;
     top: 60%;
     left: 50%;
-    margin-left: -200px;
+    margin-left: -300px;
     width: 100px;
     color: teal;
 }
@@ -51,7 +51,7 @@ a.left {
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
-        position: absolute;
+        position: relative;
         top: 60%;
         left: 50%;
         margin-left: -100px;
@@ -63,7 +63,7 @@ a.left {
     /*animation: spin 10s linear infinite; */
   /*Set our animation play state to paused initially */
   /*animation-play-state: paused; */
-}
+    }
 /*a.left:hover {
 animation-play-state: running;
 }
@@ -99,10 +99,10 @@ a.right {
 	text-decoration: none; 
 	display: inline-block;
 	font-size: 16px;
-    position: absolute;
+    position: relative;
     top: 60%;
     left: 50%;
-    margin-left: 25px;
+    margin-left: 100px;
     width: 100px;
     color:teal;
 }
