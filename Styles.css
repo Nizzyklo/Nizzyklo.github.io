@@ -37,6 +37,8 @@ a.left {
     margin-left: -200px;
     width: 100px;
     color: teal;
+}
+    
     
     a.center {
         font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -143,7 +145,7 @@ a.right {
     text-align: center;
     padding: 35px;
     text-decoration: none;
-font-size: 5em;
+font-size: 1em;
 }
 
 /* Page content */
