@@ -219,3 +219,10 @@ font-size: 1em;
     font-size: 5em;
     font-weight: 90em;
 }
+
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
