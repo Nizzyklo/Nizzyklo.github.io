@@ -222,7 +222,7 @@ font-size: 1em;
 
 /* Top right text */
 .top-right {
-    float: left;
+
     position: absolute;
     top: 8px;
     right: 16px;
