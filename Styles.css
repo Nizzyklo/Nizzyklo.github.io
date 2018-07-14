@@ -228,3 +228,11 @@ font-size: 1em;
     font-size: 5em;
     font-weight: 90em;
 }
+
+#content .col {
+    float: left;
+}
+
+#footer {
+    clear: left;
+}
