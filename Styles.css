@@ -151,23 +151,41 @@ animation-play-state: running;
 */
 
 
-/* Style the navbar */
-#navbar {
-    overflow: hidden;
-    background-color: #3e4444;
-    }
-
-/* Navbar links */
-#navbar a {
-    float: right;
-    display: block;
-    /*color: #f2f2f2; */
-    color: tealback.png;
-    text-align: center;
-    padding: 35px;
-    text-decoration: none;
-font-size: 2em;
+.navbar-default div {
+    display:table;
+    width: 100%;
 }
+.navbar-default ul {
+    display:table-row;
+}
+.navbar-default ul li {
+    display: table-cell;
+    height:60px;
+    text-align: center;
+    vertical-align: middle;
+    width:33%;
+    border: solid 1px black;
+}
+
+.navbar-default ul li a {
+    vertical-align: middle;
+    border: solid 1px black;
+    text-decoration: none;
+    display: block;
+    line-height: 60px;
+    height: 60px;
+}
+.navbar-default ul li a span {
+    border-bottom: 3px solid black;
+}
+.navbar-default ul li:last-child a span {
+    font-size: 38px;
+}
+.navbar-default ul li a:hover span,
+.navbar-default ul li a:active span {
+    border-bottom: 3px solid #ffd460!important;
+}
+
 
 /* Page content */
 .content {
