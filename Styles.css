@@ -159,13 +159,13 @@ animation-play-state: running;
 
 /* Navbar links */
 #navbar a {
-    float: left;
+    float: right;
     display: block;
     color: #f2f2f2;
     text-align: center;
     padding: 35px;
     text-decoration: none;
-font-size: 1em;
+font-size: 2em;
 }
 
 /* Page content */
