@@ -161,7 +161,8 @@ animation-play-state: running;
 #navbar a {
     float: right;
     display: block;
-    color: #f2f2f2;
+    /*color: #f2f2f2; */
+    color: tealback.png;
     text-align: center;
     padding: 35px;
     text-decoration: none;
