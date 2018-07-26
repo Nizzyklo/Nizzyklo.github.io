@@ -211,22 +211,50 @@ font-size: 1em;
     font-weight: 90em;
 }
 
-/* Top left text */
-.top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: 5em;
-    font-weight: 90em;
-}
-
 /* Top right text */
-.top-right {
 
+.top-right {
+    
     position: absolute;
     top: 8px;
     right: 16px;
     font-size: 5em;
+    font-weight: 90em;
+}
+
+.top-right2 {
+    
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 2em;
+    font-weight: 90em;
+}
+
+.top-right3 {
+    
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 2em;
+    font-weight: 90em;
+}
+
+.top-right4 {
+    
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 2em;
+    font-weight: 90em;
+}
+
+.top-right5 {
+    
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 2em;
     font-weight: 90em;
 }
 
